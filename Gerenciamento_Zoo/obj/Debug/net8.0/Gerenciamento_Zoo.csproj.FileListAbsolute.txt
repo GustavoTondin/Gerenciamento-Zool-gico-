@@ -1,0 +1,14 @@
+d:\Projetos\LAB P\Gerenciamento_Zoo\bin\Debug\net8.0\Gerenciamento_Zoo.exe
+D:\Projetos\LAB P\Gerenciamento_Zoo\bin\Debug\net8.0\Gerenciamento_Zoo.deps.json
+D:\Projetos\LAB P\Gerenciamento_Zoo\bin\Debug\net8.0\Gerenciamento_Zoo.runtimeconfig.json
+d:\Projetos\LAB P\Gerenciamento_Zoo\bin\Debug\net8.0\Gerenciamento_Zoo.dll
+d:\Projetos\LAB P\Gerenciamento_Zoo\bin\Debug\net8.0\Gerenciamento_Zoo.pdb
+d:\Projetos\LAB P\Gerenciamento_Zoo\obj\Debug\net8.0\Gerenciamento_Zoo.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projetos\LAB P\Gerenciamento_Zoo\obj\Debug\net8.0\Gerenciamento_Zoo.AssemblyInfoInputs.cache
+d:\Projetos\LAB P\Gerenciamento_Zoo\obj\Debug\net8.0\Gerenciamento_Zoo.AssemblyInfo.cs
+d:\Projetos\LAB P\Gerenciamento_Zoo\obj\Debug\net8.0\Gerenciamento_Zoo.csproj.CoreCompileInputs.cache
+d:\Projetos\LAB P\Gerenciamento_Zoo\obj\Debug\net8.0\Gerenciamento_Zoo.dll
+d:\Projetos\LAB P\Gerenciamento_Zoo\obj\Debug\net8.0\refint\Gerenciamento_Zoo.dll
+d:\Projetos\LAB P\Gerenciamento_Zoo\obj\Debug\net8.0\Gerenciamento_Zoo.pdb
+D:\Projetos\LAB P\Gerenciamento_Zoo\obj\Debug\net8.0\Gerenciamento_Zoo.genruntimeconfig.cache
+D:\Projetos\LAB P\Gerenciamento_Zoo\obj\Debug\net8.0\ref\Gerenciamento_Zoo.dll
